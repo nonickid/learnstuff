@@ -1,4 +1,4 @@
-## SQL Labs - PortSwigger Academy
+## SQL Injection Labs - PortSwigger Academy
 
 #### Blind SQL Injection with Conditional Response Lab
 ```bash
