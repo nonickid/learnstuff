@@ -5,9 +5,7 @@ import requests
 import string
 import sys
 import argparse
-import threading
 import itertools
-import time
 from urllib.parse import quote_plus
 
 

@@ -6,5 +6,5 @@
  Checking users table: True
  Checking Administrator account: True
  Checking password length: 20
- Extracting Admin password: 4iwx
+ Extracting Admin password: 4iwxwfcbi3r64bnvrb2f
 ```
