@@ -1,5 +1,5 @@
 # Web Security Academy Port Swigger
-# Blind SQL injection with conditional responses lab
+# Blind SQL injection with conditional errors lab
 #
 import requests
 import string
