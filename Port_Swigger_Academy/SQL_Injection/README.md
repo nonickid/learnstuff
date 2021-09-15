@@ -1,5 +1,19 @@
 ## SQL Injection Labs - PortSwigger Academy
 
+
+#### Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+```sh
+$ python where_sql_injection_hidden_data.py https://acf71f921e03f347807402610012004b.web-security-academy.net
+High-End Gift Wrapping
+Conversation Controlling Lemon
+...
+...
+...
+The Bucket of Doom
+Folding Gadgets
+ZZZZZZ Bed - Your New Home Office
+```
+
 #### Lab: Blind SQL Injection with Conditional Response
 ```sh
  $ python3 blind_sql_conditional_response.py https://aca11f2a1e76b68e80af965200bf0092.web-security-academy.net
