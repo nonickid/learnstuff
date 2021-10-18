@@ -1,4 +1,4 @@
-#### Hack The Box -  Vaccine 
+#### Hack The Box -  BountyHunter 
 
 Simple script using XXE Injection to reading an OS files on HTB BountyHunter machine.  
 
