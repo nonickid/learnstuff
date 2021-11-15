@@ -1,5 +1,4 @@
 # HTB/TryHackME/OSCP/AWAE learning stuff
-Scripts created for learning purpose
 
 The repository contains scripts created to automate a vulnerabilities exploitation and to learn.
 
