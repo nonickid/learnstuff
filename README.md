@@ -9,5 +9,5 @@ The repository contains scripts created to automate a vulnerabilities exploitati
 
 - [Port Swigger Academy](Port_Swigger_Academy/README.md)
 
-> The directory contains programs created to solve Port Swigger LABs for specified web  vulnerabilites.
+> The directory contains programs created to solve Port Swigger lab exercises for specified web vulnerabilites.
 > The labs are available here [Port Swigger Academy](https://portswigger.net/web-security).
