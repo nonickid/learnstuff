@@ -3,14 +3,10 @@ Scripts created for learning purpose
 
 The repository contains scripts created to automate a vulnerabilities exploitation and to learn.
 
-- [Hack The Box](HTB/README.md)
-
-[www.hackthebox.com](https://www.hackthebox.com)
+- [Hack The Box](HTB/README.md) Official Web: [www.hackthebox.com](https://www.hackthebox.com)
 
 > The directory contains programs to exploit the vulnerabilities found on HTB machines..
 
-- [Port Swigger Academy](Port_Swigger_Academy/README.md)
-
-[portswigger.net/web-security](https://portswigger.net/web-security)
+- [Port Swigger Academy](Port_Swigger_Academy/README.md) Official Web: [portswigger.net/web-security](https://portswigger.net/web-security)
 
 > The directory contains program created to solve Port Swigger LABs for specified web vulnerabilites.
